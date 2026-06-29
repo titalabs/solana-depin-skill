@@ -85,8 +85,8 @@ This skill provides battle-tested patterns from Solana's largest DePINs so you d
 ### Recommended: Custom Install
 
 ```bash
-git clone https://github.com/titalabs/rw-usecase-skills
-cd rw-usecase-skills
+git clone https://github.com/titalabs/solana-depin-skill
+cd solana-depin-skill
 ./install-custom.sh
 ```
 
