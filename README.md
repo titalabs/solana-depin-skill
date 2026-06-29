@@ -269,11 +269,3 @@ Contributions are welcome! Please ensure any updates reflect current Solana DePI
 2. Create a feature branch: `git checkout -b feat/my-feature-29-06-2026`
 3. Make your changes
 4. Submit a pull request
-
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-Maintained by [titalabs](https://github.com/titalabs)

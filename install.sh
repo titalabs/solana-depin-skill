@@ -64,7 +64,6 @@ print_help() {
     echo ""
 }
 
-# Parse arguments
 SKIP_CONFIRM=false
 while [[ $# -gt 0 ]]; do
     case $1 in

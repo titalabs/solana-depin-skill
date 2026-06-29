@@ -4,6 +4,7 @@ Managing device identity at scale is one of the hardest problems in DePIN. Each 
 
 ## Device Registry Design
 
+
 ### Design Decisions
 
 | Decision | Option A | Option B | Option C |

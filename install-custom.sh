@@ -15,14 +15,17 @@ CYAN='\033[0;36m'
 WHITE='\033[1;37m'
 NC='\033[0m'
 
+
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 DEPIN_SKILL_NAME="solana-depin"
 CORE_SKILL_NAME="solana-dev"
 SOURCE_DIR="$SCRIPT_DIR/skill"
 
+
 # Default paths
 PERSONAL_SKILLS_DIR="$HOME/.claude/skills"
 PROJECT_SKILLS_DIR=".claude/skills"
+
 
 # Installation targets (set during prompts)
 INSTALL_BASE=""

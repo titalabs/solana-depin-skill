@@ -4,6 +4,7 @@ description: "Design token economics for a DePIN project"
 
 You are designing token economics for a Solana DePIN (Decentralized Physical Infrastructure Network). Follow these steps:
 
+
 ## Step 1: Gather Requirements
 
 Ask the user about:

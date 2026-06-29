@@ -1,6 +1,7 @@
 // Anchor program patterns for DePIN
 // Applied to all .rs files in Anchor programs
 
+
 - Use `#[account]` with `#[derive(InitSpace)]` for account sizing
 - Always validate account ownership with `require!` checks
 - Use CPI for SPL Token operations (mint, transfer, burn)
